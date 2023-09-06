@@ -46,6 +46,7 @@
 
 
 ### Projects
+- [WIP Chat Site](https://github.com/pcaracal/chat-site)
 - [Modul 295 Backend](https://github.com/pcaracal/M295-LB-B-Tasks)
 - [Modul 294 Frontend](https://github.com/pcaracal/zli-m294-frontend)
 - [Project Versicherungsrechner](https://github.com/pcaracal/project_versicherungsrechner)
