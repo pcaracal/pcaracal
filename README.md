@@ -5,7 +5,14 @@
 - ⚡ I am a fullstack software engineer from Switzerland
 - 🏫 Currently I am studying IT at the KBW, BBW, ZLI
 
+### Latest Project
 
+A fully working Microcomputer based on the Von-Neumann Architecture made in Angular. This is a great tool for learning the basics of Assembly, or how a Computer works on a low level but simplified for easier understanding.
+It uses Github Actions to automatically re-deploy the Website on updates.
+
+Repository: [Microcomputer Simulator Repository](https://github.com/pcaracal/MicrocomputerSimulator)
+
+Deployment: [Microcomputer Simulator Website](https://pcaracal.github.io/MicrocomputerSimulator/)
 
 ### 🔥 My current favorite tech stack
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
