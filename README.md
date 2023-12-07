@@ -4,6 +4,8 @@
 ### Hello World 👋
 - ⚡ I am a fullstack software engineer from Switzerland
 - 🏫 Currently I am studying IT at the KBW, BBW, ZLI
+- 🧠 Learning Rust
+- 📝 Writing code blazingly fast with Neovim on Linux
 
 ### Latest Project
 
