@@ -5,7 +5,7 @@
 - ⚡ I am a fullstack software engineer from Switzerland
 - 🏫 Currently I am studying IT at the KBW, BBW, ZLI
 - 🧠 Learning Rust
-- 📝 Writing code blazingly fast with Neovim on Linux
+- 📝 Writing code blazingly fast with Neovim on Arch Linux
 
 ### Latest Project
 
@@ -69,8 +69,11 @@ Deployment: [Microcomputer Simulator Website](https://pcaracal.github.io/Microco
 
 
 ### Projects
+- [Fork of Logisim-Evolution with qol improvements](https://github.com/pcaracal/logisim-evolution)
+- [Password Manager (Rust + Angular 17)](https://github.com/pcaracal/password-manager)
+- [RentMyHome (Prog2)](https://github.com/pcaracal/RentMyHome)
 - [Microcomputer Simulator Website](https://github.com/pcaracal/MicrocomputerSimulator)
-- [WIP Chat Site](https://github.com/pcaracal/chat-site)
+- [Chat Site](https://github.com/pcaracal/chat-site)
 - [Modul 295 Backend](https://github.com/pcaracal/M295-LB-B-Tasks)
 - [Modul 294 Frontend](https://github.com/pcaracal/zli-m294-frontend)
 - [Project Versicherungsrechner](https://github.com/pcaracal/project_versicherungsrechner)
